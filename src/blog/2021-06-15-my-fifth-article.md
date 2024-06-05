@@ -5,7 +5,7 @@ date: 2024-06-1
 tags: ["post", "featured"]
 image: /assets/blog/article-5.jpg
 imageAlt: keyboard
-Keyboard, teman setia kita dalam mengetik, ternyata memiliki sejarah yang panjang dan menarik. Yuk, kita simak perjalanan keyboard dari masa lalu yang jauh berbeda dengan fungsinya saat ini!
+description: Keyboard, teman setia kita dalam mengetik, ternyata memiliki sejarah yang panjang dan menarik. Yuk, kita simak perjalanan keyboard dari masa lalu yang jauh berbeda dengan fungsinya saat ini!
 ---
 
 ## Dari Piano ke Perangkat Canggih: Perjalanan Keyboard Pengetik
