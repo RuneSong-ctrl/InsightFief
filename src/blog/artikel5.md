@@ -1,7 +1,7 @@
 ---
 title: Dari Piano ke Perangkat Canggih Perjalanan Keyboard Pengetik
 author: Rama Devantara
-date: 2024-06-1
+date: 2024-06-01
 tags: ["post", "featured"]
 image: /assets/blog/article-5.jpg
 imageAlt: keyboard
