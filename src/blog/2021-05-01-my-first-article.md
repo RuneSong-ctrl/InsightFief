@@ -1,19 +1,37 @@
 ---
-title: My First Article
-author: Kevin Powell
-date: 2021-05-01
+title: Laptop: Dari Jaman Besi Sampai Era Slim dan Stylish!
+author: Rama Devantara
+date: 2024-05-01
 tags: ["post", "featured"]
 image: /assets/blog/article-1.jpg
-imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+imageAlt: Laptop modern
+description: Siapa sangka, laptop yang sekarang udah jadi teman setia ini dulunya gede dan berat banget?  Beda banget sama sekarang yang tipis, ringan, dan gampang dibawa kemana-mana.  Yuk, simak perjalanan sejarah laptop dari jaman besi sampai era slim dan stylish!
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel. Donec ultrices tincidunt arcu non sodales. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Pretium quam vulputate dignissim suspendisse in est. Lobortis mattis aliquam faucibus purus in massa tempor nec. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Vulputate eu scelerisque felis imperdiet proin. Nisl nisi scelerisque eu ultrices.
+##Laptop: Dari Jaman Besi Sampai Era Slim dan Stylish!##
 
-Enim nulla aliquet porttitor lacus luctus accumsan. Vulputate mi sit amet mauris commodo quis. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Placerat orci nulla pellentesque dignissim. Consequat mauris nunc congue nisi. Nec nam aliquam sem et tortor consequat. Consequat semper viverra nam libero justo laoreet sit amet. Id interdum velit laoreet id donec. Turpis in eu mi bibendum neque. Tincidunt vitae semper quis lectus. Suscipit adipiscing bibendum est ultricies integer quis auctor. Posuere urna nec tincidunt praesent semper. Sagittis id consectetur purus ut faucibus pulvinar elementum. Diam maecenas ultricies mi eget mauris. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Dui sapien eget mi proin sed.
+Siapa sangka, laptop yang sekarang udah jadi teman setia ini dulunya gede dan berat banget?  Beda banget sama sekarang yang tipis, ringan, dan gampang dibawa kemana-mana.  Yuk, simak perjalanan sejarah laptop dari jaman besi sampai era slim dan stylish!
 
-In iaculis nunc sed augue lacus. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Consectetur adipiscing elit ut aliquam. Tortor consequat id porta nibh venenatis cras sed. Integer enim neque volutpat ac tincidunt. Pellentesque pulvinar pellentesque habitant morbi. Ut enim blandit volutpat maecenas. Risus quis varius quam quisque id. Turpis tincidunt id aliquet risus. Congue eu consequat ac felis donec.
+**Jaman Besi (1970-an)**
 
-Aliquam vestibulum morbi blandit cursus risus at. Malesuada fames ac turpis egestas sed tempus. Donec et odio pellentesque diam volutpat commodo sed egestas egestas. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus. Enim diam vulputate ut pharetra sit amet aliquam. Est ante in nibh mauris cursus mattis. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque. Nec ultrices dui sapien eget mi proin sed libero enim. Sed sed risus pretium quam vulputate. Sit amet luctus venenatis lectus magna.
+Tahun 1975, IBM Portable PC 5100 lahir.  Inilah laptop pertama di dunia, tapi beratnya 2.5 kg dan ukurannya sebesar mesin jahit!  Laptop ini didesain khusus untuk insinyur dan ilmuwan, dan harganya selangit.
 
-Mauris nunc congue nisi vitae suscipit tellus mauris. Vitae et leo duis ut. Arcu cursus euismod quis viverra nibh. Amet mauris commodo quis imperdiet. Condimentum lacinia quis vel eros donec. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Faucibus nisl tincidunt eget nullam. Cursus metus aliquam eleifend mi in nulla. Ut placerat orci nulla pellentesque dignissim enim sit amet. Lobortis feugiat vivamus at augue eget arcu dictum. Nunc faucibus a pellentesque sit amet porttitor. Quis varius quam quisque id diam vel quam elementum pulvinar.
+**Jaman Batu (1980-an)**
+
+Laptop di era ini masih gede dan berat, tapi udah mulai ada yang pakai layar sentuh.  Salah satu yang terkenal adalah GRiD Compass 1100 yang dipakai oleh para astronaut NASA.  Harganya pun masih mahal, sekitar Rp 50 jutaan.
+
+**Era Remaja (1990-an)**
+
+Laptop mulai populer di kalangan pelajar dan profesional muda.  Ukurannya semakin kecil dan harganya pun lebih terjangkau.  Muncullah laptop-laptop ikonik seperti Compaq Armada dan IBM ThinkPad.
+
+**Era Dewasa (2000-an)**
+
+Laptop makin canggih dan stylish.  Layarnya semakin besar dan jernih, performanya pun makin kencang.  Laptop pun mulai dilengkapi dengan fitur-fitur multimedia seperti kamera dan speaker.  Netbook, laptop mungil dan murah, juga mulai populer di era ini.
+
+**Era Slim dan Stylish (2010-an - Sekarang)**
+
+Laptop sekarang makin tipis, ringan, dan punya desain yang keren.  Layarnya sudah touchscreen, performanya super ngebut, dan baterainya tahan lama.  Laptop pun jadi esensial untuk berbagai aktivitas, mulai dari bekerja, belajar, sampai bermain game.
+
+**Kesimpulan**
+
+Laptop telah mengalami perjalanan panjang dari jaman besi sampai era slim dan stylish.  Perkembangan teknologi membuatnya semakin canggih, fungsional, dan mudah dibawa kemana-mana.  Laptop pun jadi bagian penting dalam kehidupan manusia di era digital ini.
