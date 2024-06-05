@@ -1,19 +1,37 @@
 ---
-title: My Fifth Article
-author: Kevin Powell
-date: 2021-06-15
+title: Dari Piano ke Perangkat Canggih Perjalanan Keyboard Pengetik
+author: Rama Devantara
+date: 2024-06-1
 tags: ["post", "featured"]
 image: /assets/blog/article-5.jpg
-imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+imageAlt: keyboard
+Keyboard, teman setia kita dalam mengetik, ternyata memiliki sejarah yang panjang dan menarik. Yuk, kita simak perjalanan keyboard dari masa lalu yang jauh berbeda dengan fungsinya saat ini!
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id leo in vitae turpis massa. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Ornare aenean euismod elementum nisi quis eleifend. Amet tellus cras adipiscing enim eu turpis. Nisi vitae suscipit tellus mauris. Mauris in aliquam sem fringilla ut morbi tincidunt augue. Mi eget mauris pharetra et. Et tortor at risus viverra. Id eu nisl nunc mi ipsum faucibus vitae. Malesuada nunc vel risus commodo viverra maecenas. Et netus et malesuada fames ac turpis egestas sed. Massa vitae tortor condimentum lacinia quis. Eu augue ut lectus arcu bibendum at varius. Enim nec dui nunc mattis enim ut tellus elementum sagittis. In fermentum et sollicitudin ac orci. Nec sagittis aliquam malesuada bibendum arcu vitae elementum. Et ligula ullamcorper malesuada proin libero nunc consequat interdum varius. Id porta nibh venenatis cras sed felis eget velit. In hac habitasse platea dictumst.
+## Dari Piano ke Perangkat Canggih: Perjalanan Keyboard Pengetik
 
-Amet est placerat in egestas erat imperdiet sed euismod. Elementum pulvinar etiam non quam. Pharetra convallis posuere morbi leo urna molestie. Varius duis at consectetur lorem donec massa. Id semper risus in hendrerit gravida rutrum quisque. Adipiscing elit pellentesque habitant morbi tristique senectus. Tortor pretium viverra suspendisse potenti. Aenean et tortor at risus viverra adipiscing at in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Eu augue ut lectus arcu bibendum at varius vel pharetra. Facilisis magna etiam tempor orci eu. Habitant morbi tristique senectus et. Eu facilisis sed odio morbi quis commodo. Ultrices tincidunt arcu non sodales neque sodales ut etiam sit. Nulla posuere sollicitudin aliquam ultrices sagittis. At imperdiet dui accumsan sit amet nulla. Nec feugiat in fermentum posuere urna nec tincidunt praesent semper. Tortor id aliquet lectus proin nibh. Tellus at urna condimentum mattis.
+Keyboard, teman setia kita dalam mengetik, ternyata memiliki sejarah yang panjang dan menarik. Yuk, kita simak perjalanan keyboard dari masa lalu yang jauh berbeda dengan fungsinya saat ini!
 
-Urna id volutpat lacus laoreet non curabitur gravida arcu ac. Accumsan tortor posuere ac ut consequat. Suspendisse sed nisi lacus sed viverra tellus. Amet nulla facilisi morbi tempus. Maecenas volutpat blandit aliquam etiam erat velit scelerisque in dictum. Maecenas accumsan lacus vel facilisis volutpat. Fringilla phasellus faucibus scelerisque eleifend. Enim neque volutpat ac tincidunt vitae semper quis. Id eu nisl nunc mi ipsum. Ligula ullamcorper malesuada proin libero nunc. Bibendum at varius vel pharetra vel turpis nunc eget.
+**Era Awal: Inspirasi dari Mesin Ketik (1800-an)**
 
-Ipsum dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Convallis a cras semper auctor. Congue eu consequat ac felis donec et odio. Maecenas ultricies mi eget mauris pharetra. Vel facilisis volutpat est velit egestas dui id ornare. Tempor nec feugiat nisl pretium fusce id velit ut tortor. Mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor. Lectus nulla at volutpat diam ut venenatis tellus in. Pellentesque massa placerat duis ultricies. Augue eget arcu dictum varius duis at consectetur lorem.
+Konsep keyboard sebenarnya terinspirasi dari mesin ketik yang diciptakan pada abad ke-18.  Namun, keyboard pertama yang kita kenal sekarang baru muncul pada akhir abad ke-19.  Keyboard ini disusun dengan tata letak huruf yang mirip dengan piano, yaitu susunan huruf QWERTY yang masih kita gunakan sampai sekarang.  Kenapa QWERTY?  Susunan ini katanya didesain untuk mencegah mesin ketik mekanis tersangkut saat mengetik cepat.
 
-Felis donec et odio pellentesque diam volutpat commodo. Donec massa sapien faucibus et. Ut tortor pretium viverra suspendisse potenti nullam ac tortor vitae. A diam sollicitudin tempor id eu nisl. Orci nulla pellentesque dignissim enim sit amet venenatis urna cursus. Cursus turpis massa tincidunt dui. Luctus accumsan tortor posuere ac ut consequat semper viverra. Amet luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor. Leo vel fringilla est ullamcorper. Auctor elit sed vulputate mi sit amet mauris. Dolor sed viverra ipsum nunc aliquet bibendum enim facilisis.
+**Era Mesin Tik Listrik dan Komputer Awal (1900-an)**
+
+Munculnya mesin tik listrik pada awal 1900-an membawa perubahan pada keyboard.  Tombol menjadi lebih ringan dan responsif.  Keyboard pun mulai terintegrasi dengan komputer awal yang berukuran besar.  Meskipun fungsinya masih terbatas untuk memasukkan data, keyboard menjadi komponen penting dalam perkembangan komputer.
+
+**Era Komputer Personal dan Standarisasi (1970-an - 1980-an)**
+
+Dengan lahirnya komputer personal (PC) pada era 1970-an, keyboard menjadi semakin penting.  Keyboard menjadi alat utama untuk berinteraksi dengan komputer.  Standarisasi tata letak keyboard, seperti QWERTY, menjadi penting untuk memudahkan pengguna.  Selain itu, muncul berbagai jenis keyboard, seperti keyboard membran dan keyboard mekanikal, yang menawarkan pengalaman mengetik yang berbeda.
+
+**Era Ergonomis dan Fitur Tambahan (1990-an - Sekarang)**
+
+Seiring dengan penggunaan komputer yang semakin intensif, keyboard pun mulai didesain secara ergonomis untuk mencegah kelelahan dan cedera pada tangan.  Fitur tambahan seperti tombol multimedia dan fungsi shortcut pun mulai bermunculan.  Keyboard wireless juga menjadi populer, menawarkan kebebasan bergerak bagi pengguna.
+
+**Masa Depan Keyboard?**
+
+Keyboard terus berevolusi.  Keyboard virtual yang diproyeksikan ke permukaan datar dan keyboard yang bisa dilipat sedang dikembangkan.  Keyboard masa depan mungkin bisa mengenali gaya mengetik penggunanya dan bahkan bisa memprediksi kata selanjutnya.
+
+**Kesimpulan**
+
+Keyboard telah melalui perjalanan panjang, dari terinspirasi piano hingga menjadi perangkat canggih yang tak terpisahkan dari dunia digital.  Ke depannya, keyboard diperkirakan akan terus berinovasi dan beradaptasi dengan kebutuhan pengguna yang semakin beragam.
