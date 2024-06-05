@@ -1,19 +1,43 @@
 ---
-title: My Third Article
-author: Kevin Powell
-date: 2021-05-28
+title: Desain Grafis Dari Gua ke Layar, Kisah Visual yang Menakjubkan
+author: Rama Devantara
+date: 2024-05-28
 tags: ["post"]
 image: /assets/blog/article-3.jpg
-imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+imageAlt: grafis
+description: Desain grafis, seni mengkomunikasikan ide melalui gambar, ternyata sudah ada sejak zaman prasejarah!  Bayangkan, manusia gua menggambar di dinding gua untuk menceritakan kisah mereka.  Keren, kan?
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum facilisis leo vel fringilla. Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Ut sem nulla pharetra diam sit amet nisl. Est velit egestas dui id ornare. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. Ut sem viverra aliquet eget. Semper feugiat nibh sed pulvinar proin gravida hendrerit lectus a. At augue eget arcu dictum. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Amet aliquam id diam maecenas ultricies mi.
+## Menjelajahi Jejak Visual: Sejarah Desain Grafis
+Desain grafis, seni mengkomunikasikan ide melalui visual, telah menjadi bagian integral dari kehidupan manusia sejak peradaban awal.  Dari gua prasejarah hingga layar digital, desain grafis terus berkembang, mencerminkan budaya, teknologi, dan kebutuhan manusia yang selalu berubah.  Mari kita telusuri jejak visual dan pelajari sejarah desain grafis yang kaya dan menarik!
 
-Urna porttitor rhoncus dolor purus non enim praesent elementum facilisis. Molestie nunc non blandit massa enim nec dui nunc mattis. Sem nulla pharetra diam sit amet nisl suscipit. Id eu nisl nunc mi. Congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar. Sit amet purus gravida quis blandit. Egestas sed sed risus pretium quam vulputate dignissim suspendisse. Magna fringilla urna porttitor rhoncus dolor. Neque ornare aenean euismod elementum nisi quis eleifend quam adipiscing. Ut eu sem integer vitae. Orci phasellus egestas tellus rutrum tellus. Cras semper auctor neque vitae tempus quam pellentesque nec nam. Dignissim sodales ut eu sem integer vitae justo. Tempus imperdiet nulla malesuada pellentesque elit eget. Lectus urna duis convallis convallis tellus id interdum velit.
+**Era Prasejarah: Simbol dan Lukisan Gua**
 
-Fringilla urna porttitor rhoncus dolor purus. Sagittis nisl rhoncus mattis rhoncus urna neque viverra justo. Etiam non quam lacus suspendisse faucibus interdum. Eget dolor morbi non arcu risus quis varius quam. Senectus et netus et malesuada. Erat pellentesque adipiscing commodo elit at. Diam sit amet nisl suscipit. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lectus proin nibh nisl condimentum id venenatis. Consequat semper viverra nam libero. Cursus turpis massa tincidunt dui ut ornare. Suspendisse ultrices gravida dictum fusce ut placerat orci nulla. Purus sit amet luctus venenatis lectus magna fringilla urna. Eget gravida cum sociis natoque penatibus. Tellus elementum sagittis vitae et leo duis ut diam quam. Scelerisque felis imperdiet proin fermentum leo vel orci. Eu facilisis sed odio morbi quis commodo. Sed risus ultricies tristique nulla aliquet.
+Jejak desain grafis tertua ditemukan pada lukisan gua prasejarah.  Figur hewan, simbol, dan pola yang digores di dinding gua menunjukkan kemampuan manusia awal untuk berkomunikasi secara visual.  Lukisan-lukisan ini tidak hanya memiliki makna estetika, tetapi juga kemungkinan berfungsi sebagai alat ritual, peta, atau bentuk komunikasi non-verbal.
 
-Erat nam at lectus urna duis. Pretium nibh ipsum consequat nisl vel pretium lectus quam id. Tristique senectus et netus et malesuada fames. Semper eget duis at tellus at urna. Dictum non consectetur a erat nam at. Non quam lacus suspendisse faucibus interdum posuere lorem. Risus nullam eget felis eget nunc lobortis mattis. Amet nulla facilisi morbi tempus iaculis urna id. Vitae sapien pellentesque habitant morbi tristique senectus et netus. Scelerisque felis imperdiet proin fermentum leo vel orci porta. Eget magna fermentum iaculis eu non diam phasellus vestibulum. Sit amet luctus venenatis lectus magna fringilla. Malesuada fames ac turpis egestas. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Erat pellentesque adipiscing commodo elit. Vel quam elementum pulvinar etiam. Neque ornare aenean euismod elementum nisi quis eleifend quam adipiscing. Eu ultrices vitae auctor eu augue ut. Imperdiet proin fermentum leo vel orci porta non pulvinar.
+**Era Kuno: Hieroglif dan Seni Rupa**
 
-Volutpat lacus laoreet non curabitur gravida. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Posuere urna nec tincidunt praesent semper feugiat nibh sed pulvinar. Ipsum consequat nisl vel pretium lectus quam. Est lorem ipsum dolor sit amet. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Integer eget aliquet nibh praesent tristique magna sit amet purus. Tristique senectus et netus et malesuada fames ac turpis. Sit amet volutpat consequat mauris nunc congue nisi vitae suscipit. Maecenas sed enim ut sem viverra. Ante in nibh mauris cursus mattis molestie a iaculis at. Vitae auctor eu augue ut lectus arcu bibendum at.
+Mesir Kuno, Mesopotamia, dan peradaban kuno lainnya mengembangkan sistem penulisan yang memanfaatkan desain grafis.  Hieroglif Mesir, misalnya, menggabungkan simbol-simbol gambar untuk mewakili suara dan ide.  Seni rupa kuno, seperti patung dan relief, juga menggunakan desain grafis untuk menceritakan kisah, memuja dewa, dan menyampaikan pesan politik.
+
+**Era Pertengahan: Buku Tercetak dan Seni Ilustrasi**
+
+Penemuan mesin cetak oleh Johannes Gutenberg pada tahun 1440 menjadi titik balik penting dalam sejarah desain grafis.  Buku-buku tercetak memungkinkan penyebaran informasi secara luas dan mendorong perkembangan seni ilustrasi.  Seni kaligrafi dan iluminasi buku menjadi populer, menghiasi teks dengan gambar dan desain yang rumit.
+
+**Era Modern: Revolusi Industri dan Desain Komersial**
+
+Revolusi Industri membawa perubahan besar pada desain grafis.  Perkembangan mesin uap dan produksi massal melahirkan kebutuhan akan desain produk, poster iklan, dan kemasan yang menarik.  Desainer grafis mulai menggunakan tipografi, ilustrasi, dan fotografi untuk mempromosikan produk dan layanan.
+
+**Era Modern: Desain Grafis di Era Digital**
+
+Perkembangan komputer dan internet membawa revolusi baru dalam desain grafis.  Perangkat lunak desain grafis memungkinkan para desainer untuk menciptakan karya yang kompleks dan canggih dengan lebih mudah.  Desain web, desain multimedia, dan desain interaktif menjadi bidang yang berkembang pesat.
+
+**Desain Grafis di Indonesia**
+
+Di Indonesia, desain grafis memiliki sejarah yang kaya dan beragam.  Desain Batik, kain tradisional Indonesia, merupakan salah satu contoh seni grafis yang telah ada sejak berabad-abad lalu.  Perkembangan desain grafis modern di Indonesia dimulai pada era kolonial Belanda, dengan munculnya poster propaganda dan desain tipografi.  Setelah kemerdekaan, desain grafis Indonesia berkembang pesat, dengan banyak desainer berbakat yang berkarya di berbagai bidang.
+
+**Kesimpulan**
+
+Desain grafis telah berevolusi dari simbol gua prasejarah hingga desain digital yang canggih.  Perjalanannya mencerminkan budaya, teknologi, dan kebutuhan manusia yang selalu berubah.  Desain grafis terus memainkan peran penting dalam kehidupan kita, membantu kita berkomunikasi, menginformasikan, dan menginspirasi.
+
+
+
