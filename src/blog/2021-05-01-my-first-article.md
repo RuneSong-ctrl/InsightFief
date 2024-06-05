@@ -1,11 +1,11 @@
 ---
-title: My Second Article
-author: Kevin Powell
-date: 2021-05-15
+title: Sejarah Laptop dari Jaman Besi Sampai Era Slim dan Stylish!
+author: Rama Devantara
+date: 2024-05-19
 tags: ["post", "featured"]
-image: /assets/blog/article-2.jpg
-imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+image: /assets/blog/article-1.jpg
+imageAlt: Laptop Modern
+description: Siapa sangka, laptop yang sekarang udah jadi teman setia ini dulunya gede dan berat banget?  Beda banget sama sekarang yang tipis, ringan, dan gampang dibawa kemana-mana.  Yuk, simak perjalanan sejarah laptop dari jaman besi sampai era slim dan stylish!
 ---
 
 ## Laptop: Dari Jaman Besi Sampai Era Slim dan Stylish!
