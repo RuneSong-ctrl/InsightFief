@@ -8,7 +8,7 @@ imageAlt: Laptop modern
 description: Siapa sangka, laptop yang sekarang udah jadi teman setia ini dulunya gede dan berat banget?  Beda banget sama sekarang yang tipis, ringan, dan gampang dibawa kemana-mana.  Yuk, simak perjalanan sejarah laptop dari jaman besi sampai era slim dan stylish!
 ---
 
-##Laptop: Dari Jaman Besi Sampai Era Slim dan Stylish!##
+## Laptop: Dari Jaman Besi Sampai Era Slim dan Stylish!
 
 Siapa sangka, laptop yang sekarang udah jadi teman setia ini dulunya gede dan berat banget?  Beda banget sama sekarang yang tipis, ringan, dan gampang dibawa kemana-mana.  Yuk, simak perjalanan sejarah laptop dari jaman besi sampai era slim dan stylish!
 
