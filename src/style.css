@@ -389,37 +389,3 @@ section,
   font-size: 1.5rem; /* Adjust the size as needed */
   color: var(--logo-color, #000);
 }
-
-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px;
-  background-color: #f8f9fa;
-}
-
-header nav {
-  display: flex;
-  align-items: center;
-}
-
-#search-form {
-  display: flex;
-  align-items: center;
-}
-
-#search-input {
-  padding: 5px;
-  font-size: 1rem;
-}
-
-@media (max-width: 600px) {
-  #search-input {
-    width: 100%;
-    margin-right: 10px;
-  }
-
-  #search-form {
-    flex-grow: 1;
-  }
-}
