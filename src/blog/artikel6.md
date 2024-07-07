@@ -1,11 +1,11 @@
 ---
-title: Dari Piano ke Perangkat Canggih Perjalanan Keyboard Pengetik
+title: Panduan Singkat Website Portfolio Sederhana
 author: Rama Devantara
-date: 2024-06-01
+date: 2024-07-07
 tags: ["post", "featured"]
-image: /assets/blog/article-5.jpg
-imageAlt: keyboard
-description: Keyboard, teman setia kita dalam mengetik, ternyata memiliki sejarah yang panjang dan menarik. Yuk, kita simak perjalanan keyboard dari masa lalu yang jauh berbeda dengan fungsinya saat ini!
+image: /assets/blog/image_2024-07-07_230507477.png
+imageAlt: website
+description: Memiliki portofolio online yang memukau adalah kunci bagi freelancer, desainer, seniman, dan profesional kreatif lainnya untuk memamerkan karya mereka kepada calon klien dan menarik peluang baru.
 ---
 
 Memiliki portofolio online yang memukau adalah kunci bagi freelancer, desainer, seniman, dan profesional kreatif lainnya untuk memamerkan karya mereka kepada calon klien dan menarik peluang baru. Halaman pendaratan portofolio yang sederhana namun efektif dapat menjadi solusi ideal untuk menyajikan proyek terbaik Anda dengan cara yang menarik dan mudah dinavigasi.
