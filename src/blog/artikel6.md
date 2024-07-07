@@ -3,7 +3,7 @@ title: Membangun Website Portofolio Sederhana: Panduan Singkat
 author: Rama Devantara
 date: 2024-07-07
 tags: ["post", "featured"]
-image: /assets/blog/article-4.jpg
+image: /assets/blog/src/image_2024-07-07_230507477.png
 imageAlt: blog website
 description: Memiliki portofolio online yang memukau adalah kunci bagi freelancer, desainer, seniman, dan profesional kreatif lainnya untuk memamerkan karya mereka kepada calon klien dan menarik peluang baru
 ---
