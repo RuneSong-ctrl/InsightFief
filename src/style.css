@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+
 :root {
   --fs-300: 0.9375rem;
   --fs-400: 1.0625rem;
@@ -5,8 +7,8 @@
   --fs-600: 1.875rem;
   --fs-700: 2rem;
 
-  --ff-body: "Roboto", sans-serif;
-  --ff-heading: "Playfair Display", serif;
+  --ff-body: "Outfit", sans-serif;
+  --ff-heading: "Outfit", sans-serif;
 
   --fw-400: 400;
   --fw-700: 700;
@@ -384,7 +386,7 @@ section,
 }
 
 .logo-text {
-  font-family: "Playfair Display", serif;
+  font-family: "Outfit", sans-serif;
   font-weight: 700;
   font-size: 1.5rem; /* Adjust the size as needed */
   color: var(--logo-color, #000);
