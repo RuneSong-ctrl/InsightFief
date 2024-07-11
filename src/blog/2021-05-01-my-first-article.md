@@ -1,15 +1,17 @@
 ---
 title: Sejarah Laptop dari Jaman Besi Sampai Era Slim dan Stylish!
+description: Siapa sangka, laptop yang sekarang udah jadi teman setia ini
+  dulunya gede dan berat banget?  Beda banget sama sekarang yang tipis, ringan,
+  dan gampang dibawa kemana-mana.  Yuk, simak perjalanan sejarah laptop dari
+  jaman besi sampai era slim dan stylish!
 author: Rama Devantara
 date: 2024-05-19
-tags: ["post", "featured"]
+tags:
+  - post
+  - featured
 image: /assets/blog/article-1.jpg
 imageAlt: Laptop Modern
-description: Siapa sangka, laptop yang sekarang udah jadi teman setia ini dulunya gede dan berat banget?  Beda banget sama sekarang yang tipis, ringan, dan gampang dibawa kemana-mana.  Yuk, simak perjalanan sejarah laptop dari jaman besi sampai era slim dan stylish!
 ---
-
-## Laptop: Dari Jaman Besi Sampai Era Slim dan Stylish!
-
 Siapa sangka, laptop yang sekarang udah jadi teman setia ini dulunya gede dan berat banget?  Beda banget sama sekarang yang tipis, ringan, dan gampang dibawa kemana-mana.  Yuk, simak perjalanan sejarah laptop dari jaman besi sampai era slim dan stylish!
 
 **Jaman Besi (1970-an)**
