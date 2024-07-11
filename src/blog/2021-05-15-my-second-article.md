@@ -1,15 +1,19 @@
 ---
 title: Genggam di Tangan, Hubungkan Dunia inilah Sejarah Handphone
+description: Handphone, atau yang biasa disebut ponsel atau telepon genggam,
+  sudah menjadi kebutuhan primer di era modern.  Perangkat mungil ini
+  memungkinkan kita terhubung dengan siapa saja, kapan saja, dan di mana
+  saja.  Namun, tahukah kamu bagaimana handphone bisa berevolusi dari benda
+  bongsor hingga menjadi teman setia di genggaman tangan kita?  Yuk, simak
+  perjalanan handphone dari masa lalu hingga sekarang!
 author: Rama Devantara
 date: 2024-05-21
-tags: ["post", "featured"]
+tags:
+  - post
+  - featured
 image: /assets/blog/article-2.jpg
 imageAlt: handphone
-description: Handphone, atau yang biasa disebut ponsel atau telepon genggam, sudah menjadi kebutuhan primer di era modern.  Perangkat mungil ini memungkinkan kita terhubung dengan siapa saja, kapan saja, dan di mana saja.  Namun, tahukah kamu bagaimana handphone bisa berevolusi dari benda bongsor hingga menjadi teman setia di genggaman tangan kita?  Yuk, simak perjalanan handphone dari masa lalu hingga sekarang!
 ---
-
-## Genggam di Tangan, Hubungkan Dunia: Sejarah Handphone
-
 Handphone, atau yang biasa disebut ponsel atau telepon genggam, sudah menjadi kebutuhan primer di era modern.  Perangkat mungil ini memungkinkan kita terhubung dengan siapa saja, kapan saja, dan di mana saja.  Namun, tahukah kamu bagaimana handphone bisa berevolusi dari benda bongsor hingga menjadi teman setia di genggaman tangan kita?  Yuk, simak perjalanan handphone dari masa lalu hingga sekarang!
 
 **Era Kelahiran: Mimpi Besar dalam Genggaman (1940an - 1970an)**
