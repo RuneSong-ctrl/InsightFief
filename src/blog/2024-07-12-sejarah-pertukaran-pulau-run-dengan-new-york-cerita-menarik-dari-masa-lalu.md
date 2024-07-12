@@ -9,7 +9,7 @@ date: 2024-07-12T15:49:30.630Z
 tags:
   - post
   - featured
-image: /assets/blog/image_2024-07-12_235156398.png
+image: /assets/blog/asppdg9potw426bgj7jj.jpg
 imageAlt: Perbandingan New York dan Pulau Run (kumparan.com)
 ---
 <!--StartFragment-->
