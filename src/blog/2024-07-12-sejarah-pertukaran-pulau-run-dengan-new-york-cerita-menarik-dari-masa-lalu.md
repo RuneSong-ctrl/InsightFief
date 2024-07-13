@@ -9,7 +9,7 @@ date: 2024-07-12T15:49:30.630Z
 tags:
   - post
   - featured
-image: /assets/blog/image_2024-07-13_000302980.png
+image: https://www.freepik.com/free-photo/midtown-manhattan-new-york-city-usa_9655367.htm#fromView=search&page=1&position=3&uuid=bac26bb3-7583-42d9-a377-55f006cdb369
 imageAlt: Pulau Manhattan New York
 ---
 <!--StartFragment-->
@@ -18,7 +18,7 @@ imageAlt: Pulau Manhattan New York
 
 Pulau Run adalah bagian dari Kepulauan Banda, yang terletak di Maluku, Indonesia. Pulau ini kecil tapi memiliki nilai yang sangat tinggi pada masa lalu. Kenapa bisa begitu? Jawabannya ada pada rempah-rempah, khususnya pala, yang tumbuh subur di sini. Pada abad ke-17, pala adalah salah satu komoditas paling berharga di dunia. Rempah-rempah seperti pala digunakan tidak hanya untuk masakan tetapi juga sebagai obat dan pengawet makanan. Jadi, memiliki kontrol atas sumber pala berarti memiliki kekayaan dan kekuasaan besar.
 
-![](/assets/blog/image_2024-07-13_000302980.png "Pulau Banda")
+![]( "Pulau Banda")
 
 ### Perebutan Kepulauan Banda
 
