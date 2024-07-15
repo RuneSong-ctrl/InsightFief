@@ -8,7 +8,7 @@ date: 2024-07-15T08:33:43.559Z
 tags:
   - post
   - featured
-image: /assets/blog/image_2024-07-15_163351530.png
+image: /assets/blog/image_2024-07-15_164845979.png
 imageAlt: Perbandingan Pulau Run dan Manhattan (New York)
 ---
 <!--StartFragment-->
