@@ -10,7 +10,7 @@ date: 2024-07-16T03:39:11.118Z
 tags:
   - post
   - featured
-image: src/assets/blog/image_2024-07-16_123557301.png
+image: /assets/blog/image_2024-07-16_123557301.png
 imageAlt: Skala Bortle pada langit malam
 ---
 <!--StartFragment-->
